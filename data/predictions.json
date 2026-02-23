@@ -9,5 +9,27 @@
     "corners": 15,
     "possession": 59,
     "submittedAt": "2026-02-23T03:00:09.646Z"
+  },
+  {
+    "userId": "user_1771817839604",
+    "username": "zingaz",
+    "homeScore": 1,
+    "awayScore": 2,
+    "firstGoalMinute": 66,
+    "firstScorerId": 3,
+    "corners": 15,
+    "possession": 47,
+    "submittedAt": "2026-02-23T03:37:44.652Z"
+  },
+  {
+    "userId": "user_1771817890719",
+    "username": "fan",
+    "homeScore": 1,
+    "awayScore": 0,
+    "firstGoalMinute": 25,
+    "firstScorerId": 6,
+    "corners": 8,
+    "possession": 55,
+    "submittedAt": "2026-02-23T03:38:34.698Z"
   }
 ]

@@ -6,5 +6,21 @@
     "role": "user",
     "leagueId": "league_1",
     "createdAt": "2026-02-23T02:58:39.559Z"
+  },
+  {
+    "id": "user_1771817839604",
+    "username": "zingaz",
+    "password": "$2a$10$VjnUiyKwYnzh38UqfqfVPurLfYztByJgogUcH3SHYomau0BiNUUvW",
+    "role": "user",
+    "leagueId": "league_1",
+    "createdAt": "2026-02-23T03:37:19.604Z"
+  },
+  {
+    "id": "user_1771817890719",
+    "username": "fan",
+    "password": "$2a$10$a5m99RXwMpv5qiEPKM.wVe4kCr9vRD1r.7pzB0grcUM5qgRdnOUDS",
+    "role": "user",
+    "leagueId": "league_1",
+    "createdAt": "2026-02-23T03:38:10.719Z"
   }
 ]
